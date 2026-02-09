@@ -29,18 +29,20 @@ The application focuses on simplicity while providing strong password generation
 
 ## Project Structure
 
+```
 SecurePass/
 │
 ├── src/
-│ ├── assets/ # Backgrounds & images
-│ ├── passwordGen.js # Password generation logic
-│ ├── App.jsx # Main UI logic
-│ ├── App.css
-│ └── main.jsx
+│   ├── assets/           # Backgrounds & images
+│   ├── passwordGen.js    # Password generation logic
+│   ├── App.jsx           # Main UI logic
+│   ├── App.css
+│   └── main.jsx
 │
 ├── public/
 ├── package.json
 └── README.md
+```
 
 ---
 
